@@ -1,0 +1,9 @@
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\bin\Debug\SomeGeometry.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\obj\Debug\SomeGeometry.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\bin\Debug\SomeGeometry.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\bin\Debug\SomeGeometry.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\obj\Debug\SomeGeometry.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\SomeGeometry\SomeGeometry\obj\Debug\SomeGeometry.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\SomeGeometry\SomeGeometry\bin\Debug\SomeGeometry.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\SomeGeometry\SomeGeometry\obj\Debug\SomeGeometry.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\SomeGeometry\SomeGeometry\obj\Debug\SomeGeometry.pdb

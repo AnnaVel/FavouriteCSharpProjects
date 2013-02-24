@@ -1,0 +1,12 @@
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\MyOwnLibrary\Graph\Graph\bin\Debug\Graph.pdb
