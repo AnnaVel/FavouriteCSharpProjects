@@ -1,0 +1,1 @@
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
