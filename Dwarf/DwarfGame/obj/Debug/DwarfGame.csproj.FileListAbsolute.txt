@@ -1,0 +1,7 @@
+G:\CSharp Backup 21.09\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\bin\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\bin\Debug\DwarfGame.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\obj\Debug\DwarfGame.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\obj\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\obj\Debug\DwarfGame.pdb

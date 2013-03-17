@@ -1,0 +1,11 @@
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\bin\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\bin\Debug\DwarfGame.pdb
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\obj\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy - updated 04.11.2012\CSharp\Materials and Homeworks\4. Output and Input\Homework\DwarfGame\obj\Debug\DwarfGame.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Materials and Homeworks\CI\4. Output and Input\Homework\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Materials and Homeworks\CI\4. Output and Input\Homework\DwarfGame\obj\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Materials and Homeworks\CI\4. Output and Input\Homework\DwarfGame\obj\Debug\DwarfGame.pdb
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\obj\Debug\DwarfGame.exe
+C:\Users\Anna\Projects\Telerik Academy\CSharp\Git\Dwarf\DwarfGame\obj\Debug\DwarfGame.pdb
